@@ -79,13 +79,10 @@ In such a case, Change:
 # Installation
 - Use [git](https://git-scm.com/) to clone the repository:
     ```bash
-    git clone https://github.com/YahelB05/online-tasks-manager/
+    git clone https://github.com/YahelB05/Online-Tasks-Manager
     ```
     
-- Change directory:
-    ```bash
-    cd online-tasks-manager/
-    ```
+- Change directory to the project's directory
     
 - Use the package manager ['pip'](https://pip.pypa.io/en/stable/) to install the required modules:
     ```bash
