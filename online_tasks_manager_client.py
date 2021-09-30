@@ -487,7 +487,7 @@ def print_title_of_app():
   \____/ |_| |_||_||_||_| |_| \___|       |_| \__,_||___/|_|\_\|___/    |_|  |_| \__,_||_| |_| \__,_| \__, | \___||_|   
                                                                                                        __/ |            
                                                                                                       |___/             
-  Github Repository: https://github.com//Yahel05B//online-tasks-manager/ 
+  Github Repository: https://github.com/YahelB05/Online-Tasks-Manager 
     """)
 
 
