@@ -82,8 +82,11 @@ In such a case, Change:
     git clone https://github.com/YahelB05/Online-Tasks-Manager
     ```
     
-- Change directory to the project's directory
-    
+- Change directory to the project's directory:
+    ```bash
+    cd Online-Tasks-Manager/
+    ```
+
 - Use the package manager ['pip'](https://pip.pypa.io/en/stable/) to install the required modules:
     ```bash
     pip3 install -r requirements.txt
