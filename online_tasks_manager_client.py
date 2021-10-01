@@ -488,6 +488,8 @@ def print_title_of_app():
                                                                                                        __/ |            
                                                                                                       |___/             
   Github Repository: https://github.com/YahelB05/Online-Tasks-Manager 
+  
+  
     """)
 
 
@@ -495,6 +497,8 @@ def main():
     # ask for the user if he would like to login or sign in till he chooses correctly: these next parts are before the
     # connection to the server so the client won't be connected for much time and only tries to get his details
     # right... :
+
+    print_title_of_app()  # prints the title of the CLI app
 
     try:
         login_or_signin = input('1 - Login\n2 - Sign in\n\n> ')
